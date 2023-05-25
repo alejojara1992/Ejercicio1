@@ -1,0 +1,15 @@
+.contenedor-principal{
+    background-color: rebeccapurple;
+    width: 400px;
+}
+.nombre{ 
+    color: brown;
+}
+.profesion{
+    background-color: darkgreen;
+    color:blue;
+    font-size: 40;
+}
+.ropa-negra{
+    color: darkslateblue
+}
